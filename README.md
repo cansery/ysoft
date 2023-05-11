@@ -1,1 +1,3 @@
 # ysoft
+
+Project for school
